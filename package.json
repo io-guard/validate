@@ -1,0 +1,24 @@
+{
+  "name": "@io-guard/validate",
+  "version": "0.1.0",
+  "description": "Declarative, composable, runtime-safe type-checking for data / type-safe runtime validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/io-guard/validate.git"
+  },
+  "keywords": [
+    "validation",
+    "type-safety",
+    "dependent types"
+  ],
+  "author": "io-guard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/io-guard/validate/issues"
+  },
+  "homepage": "https://github.com/io-guard/validate#readme"
+}
