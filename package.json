@@ -15,7 +15,13 @@
     "type-safety",
     "dependent types"
   ],
-  "author": "io-guard",
+  "authors": [
+    {
+      "name": "Sean May",
+      "email": "sean.j.may@gmail.com",
+      "url": "https://github.com/seanmay"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/io-guard/validate/issues"
